@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/git@github.com:mohammedalani1991/mohammedalani1991.github.io.git/static/css/main.c4becf40.chunk.css",
+    "main.js": "/git@github.com:mohammedalani1991/mohammedalani1991.github.io.git/static/js/main.37de5db5.chunk.js",
+    "main.js.map": "/git@github.com:mohammedalani1991/mohammedalani1991.github.io.git/static/js/main.37de5db5.chunk.js.map",
+    "runtime-main.js": "/git@github.com:mohammedalani1991/mohammedalani1991.github.io.git/static/js/runtime-main.2e6ad60c.js",
+    "runtime-main.js.map": "/git@github.com:mohammedalani1991/mohammedalani1991.github.io.git/static/js/runtime-main.2e6ad60c.js.map",
+    "static/js/2.8bf07e61.chunk.js": "/git@github.com:mohammedalani1991/mohammedalani1991.github.io.git/static/js/2.8bf07e61.chunk.js",
+    "static/js/2.8bf07e61.chunk.js.map": "/git@github.com:mohammedalani1991/mohammedalani1991.github.io.git/static/js/2.8bf07e61.chunk.js.map",
+    "static/css/3.df879eac.chunk.css": "/git@github.com:mohammedalani1991/mohammedalani1991.github.io.git/static/css/3.df879eac.chunk.css",
+    "static/js/3.eb8b50f3.chunk.js": "/git@github.com:mohammedalani1991/mohammedalani1991.github.io.git/static/js/3.eb8b50f3.chunk.js",
+    "static/js/3.eb8b50f3.chunk.js.map": "/git@github.com:mohammedalani1991/mohammedalani1991.github.io.git/static/js/3.eb8b50f3.chunk.js.map",
+    "static/css/4.d7ceb645.chunk.css": "/git@github.com:mohammedalani1991/mohammedalani1991.github.io.git/static/css/4.d7ceb645.chunk.css",
+    "static/js/4.1c83c70d.chunk.js": "/git@github.com:mohammedalani1991/mohammedalani1991.github.io.git/static/js/4.1c83c70d.chunk.js",
+    "static/js/4.1c83c70d.chunk.js.map": "/git@github.com:mohammedalani1991/mohammedalani1991.github.io.git/static/js/4.1c83c70d.chunk.js.map",
+    "index.html": "/git@github.com:mohammedalani1991/mohammedalani1991.github.io.git/index.html",
+    "precache-manifest.f664de15b2a5d1e535dbefb9c73480f7.js": "/git@github.com:mohammedalani1991/mohammedalani1991.github.io.git/precache-manifest.f664de15b2a5d1e535dbefb9c73480f7.js",
+    "service-worker.js": "/git@github.com:mohammedalani1991/mohammedalani1991.github.io.git/service-worker.js",
+    "static/css/3.df879eac.chunk.css.map": "/git@github.com:mohammedalani1991/mohammedalani1991.github.io.git/static/css/3.df879eac.chunk.css.map",
+    "static/css/4.d7ceb645.chunk.css.map": "/git@github.com:mohammedalani1991/mohammedalani1991.github.io.git/static/css/4.d7ceb645.chunk.css.map",
+    "static/css/main.c4becf40.chunk.css.map": "/git@github.com:mohammedalani1991/mohammedalani1991.github.io.git/static/css/main.c4becf40.chunk.css.map",
+    "static/js/2.8bf07e61.chunk.js.LICENSE.txt": "/git@github.com:mohammedalani1991/mohammedalani1991.github.io.git/static/js/2.8bf07e61.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/git@github.com:mohammedalani1991/mohammedalani1991.github.io.git/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/MosulUniversityLogo.png": "/git@github.com:mohammedalani1991/mohammedalani1991.github.io.git/static/media/MosulUniversityLogo.7bea9735.png",
+    "static/media/almahfal.png": "/git@github.com:mohammedalani1991/mohammedalani1991.github.io.git/static/media/almahfal.81e8496f.png",
+    "static/media/contactMailDark.svg": "/git@github.com:mohammedalani1991/mohammedalani1991.github.io.git/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/git@github.com:mohammedalani1991/mohammedalani1991.github.io.git/static/media/developerActivity.59389695.svg",
+    "static/media/download.jfif": "/git@github.com:mohammedalani1991/mohammedalani1991.github.io.git/static/media/download.2465be52.jfif",
+    "static/media/manOnTable.svg": "/git@github.com:mohammedalani1991/mohammedalani1991.github.io.git/static/media/manOnTable.52be3144.svg",
+    "static/media/nextuLogo.webp": "/git@github.com:mohammedalani1991/mohammedalani1991.github.io.git/static/media/nextuLogo.829ad0a1.webp",
+    "static/media/saayaHealthLogo.webp": "/git@github.com:mohammedalani1991/mohammedalani1991.github.io.git/static/media/saayaHealthLogo.25018d29.webp",
+    "static/media/skill.svg": "/git@github.com:mohammedalani1991/mohammedalani1991.github.io.git/static/media/skill.34409398.svg",
+    "static/media/TalkCard.scss": "/git@github.com:mohammedalani1991/mohammedalani1991.github.io.git/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e6ad60c.js",
+    "static/js/2.8bf07e61.chunk.js",
+    "static/css/main.c4becf40.chunk.css",
+    "static/js/main.37de5db5.chunk.js"
+  ]
+}
