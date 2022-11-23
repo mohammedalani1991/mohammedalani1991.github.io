@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.a842a411.chunk.css",
-    "main.js": "/static/js/main.3b688e27.chunk.js",
-    "main.js.map": "/static/js/main.3b688e27.chunk.js.map",
+    "main.js": "/static/js/main.97007fd6.chunk.js",
+    "main.js.map": "/static/js/main.97007fd6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.be98e101.js",
     "runtime-main.js.map": "/static/js/runtime-main.be98e101.js.map",
     "static/js/2.8bf07e61.chunk.js": "/static/js/2.8bf07e61.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.1c83c70d.chunk.js": "/static/js/4.1c83c70d.chunk.js",
     "static/js/4.1c83c70d.chunk.js.map": "/static/js/4.1c83c70d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.86fd500e4f84d1c1238d8fb5d43fa97c.js": "/precache-manifest.86fd500e4f84d1c1238d8fb5d43fa97c.js",
+    "precache-manifest.6784ee734a1f895a0f4ca7018c6d0e91.js": "/precache-manifest.6784ee734a1f895a0f4ca7018c6d0e91.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
     "static/css/4.d7ceb645.chunk.css.map": "/static/css/4.d7ceb645.chunk.css.map",
@@ -22,13 +22,13 @@
     "static/js/2.8bf07e61.chunk.js.LICENSE.txt": "/static/js/2.8bf07e61.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/MosulUniversityLogo.png": "/static/media/MosulUniversityLogo.7bea9735.png",
+    "static/media/ScientificTweets.jpeg": "/static/media/ScientificTweets.4e139e89.jpeg",
     "static/media/almahfal.png": "/static/media/almahfal.81e8496f.png",
+    "static/media/bedarorg.jpeg": "/static/media/bedarorg.f02f2f3c.jpeg",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
     "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
     "static/media/download.jfif": "/static/media/download.2465be52.jfif",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
-    "static/media/nextuLogo.webp": "/static/media/nextuLogo.829ad0a1.webp",
-    "static/media/saayaHealthLogo.webp": "/static/media/saayaHealthLogo.25018d29.webp",
     "static/media/skill.svg": "/static/media/skill.34409398.svg",
     "static/media/TalkCard.scss": "/static/media/talksCardBack.13780cdd.svg"
   },
@@ -36,6 +36,6 @@
     "static/js/runtime-main.be98e101.js",
     "static/js/2.8bf07e61.chunk.js",
     "static/css/main.a842a411.chunk.css",
-    "static/js/main.3b688e27.chunk.js"
+    "static/js/main.97007fd6.chunk.js"
   ]
 }

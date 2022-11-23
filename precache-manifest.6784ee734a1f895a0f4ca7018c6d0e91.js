@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f7326564eb3c5f3c2e7eb3d5ccaf7fa9",
+    "revision": "87c5a2c19782a5581d2d8a99ada3e3f9",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.d7ceb645.chunk.css"
   },
   {
-    "revision": "6621c1ef1f4bc9de7fde",
+    "revision": "8142c0f4ce838b01b9cd",
     "url": "/static/css/main.a842a411.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.1c83c70d.chunk.js"
   },
   {
-    "revision": "6621c1ef1f4bc9de7fde",
-    "url": "/static/js/main.3b688e27.chunk.js"
+    "revision": "8142c0f4ce838b01b9cd",
+    "url": "/static/js/main.97007fd6.chunk.js"
   },
   {
     "revision": "cc337862f81bcf98534e",
@@ -52,8 +52,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/MosulUniversityLogo.7bea9735.png"
   },
   {
+    "revision": "4e139e89bab509128383c322e0046220",
+    "url": "/static/media/ScientificTweets.4e139e89.jpeg"
+  },
+  {
     "revision": "81e8496f493ffab45cb15148c362fb73",
     "url": "/static/media/almahfal.81e8496f.png"
+  },
+  {
+    "revision": "f02f2f3c87cdae7cfa0c01f5a158510b",
+    "url": "/static/media/bedarorg.f02f2f3c.jpeg"
   },
   {
     "revision": "51cf7192327488da3d2a171280680c16",
@@ -70,14 +78,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/static/media/manOnTable.52be3144.svg"
-  },
-  {
-    "revision": "829ad0a1deef4d7295adfecdf12df2be",
-    "url": "/static/media/nextuLogo.829ad0a1.webp"
-  },
-  {
-    "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
-    "url": "/static/media/saayaHealthLogo.25018d29.webp"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
